@@ -21,6 +21,7 @@
 - 熟练掌握Android下的Handler、Message的消息传递机制
 - 熟悉掌握Android应用UI设计、使用常用布局、自定义控件开发，View的绘制原理和事件分发机制；
 - 熟悉掌握Android数据存储(文件、SQLite、SharedPreferences、ContentProvider等)
+- 熟悉Android注解相关知识，了解IOC机制反射
 - 悉知Android内存管理机制，避免OOM，使用 LeakCanary、MAT等工具检测内存泄露；
 - 熟悉多线程机制以及线程池的使用
 - 熟悉掌握MVC、MVP、MVVM等架构模式，有一定的项目框架搭建能力，设计和需求分析能力；
